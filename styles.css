@@ -1,0 +1,48 @@
+body {
+    width: 85%;
+    margin: 45px auto;
+    color: rgb(238, 255, 1);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+}
+
+.sub-title {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.note {
+    font-family: 'Cinzel', serif;
+}
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+/*TO DO BUTTON*/
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    font-size: 30px;
+    background-color: rgb(219, 73, 255);
+}
+
+.todos {
+    margin-top: 25px;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
